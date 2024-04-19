@@ -82,4 +82,6 @@ return {
       )
     end,
   },
+  -- WakaTime
+  { "wakatime/vim-wakatime", event = "User AstroFile" },
 }
