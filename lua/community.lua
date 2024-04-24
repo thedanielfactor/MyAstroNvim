@@ -28,4 +28,7 @@ return {
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.debugging.nvim-chainsaw" },
+  { import = "astrocommunity.debugging.nvim-dap-repl-highlights" },
+  { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
 }
